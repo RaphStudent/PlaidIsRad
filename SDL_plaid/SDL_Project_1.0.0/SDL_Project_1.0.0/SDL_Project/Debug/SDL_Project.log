@@ -1,0 +1,7 @@
+﻿  Body.cpp
+  GameManager.cpp
+  Scene0.cpp
+c:\users\julie\desktop\sdl_plaid\sdl_project_1.0.0\sdl_project_1.0.0\sdl_project\scene0.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\julie\desktop\sdl_plaid\sdl_project_1.0.0\sdl_project_1.0.0\sdl_project\scene0.cpp(37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SDL_Project.vcxproj -> C:\Users\Julie\Desktop\SDL_plaid\SDL_Project_1.0.0\SDL_Project_1.0.0\Debug\SDL_Project.exe
